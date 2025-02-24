@@ -1,4 +1,6 @@
-
+# Ejercicio Práctico: Implementación Inicial de PWA en la Web del Hospital
+## Descripción
+En este ejercicio práctico, se integran características básicas de una PWA(Progressive Web Application) en el proyecto de la web del hospital.
 ### Visualización del proyecto
 Para visualizar este proyecto se necesita que previamente cuentes con la instalación de:
 - **Git**: [sitio de descarga] (https://git-scm.com/downloads)
