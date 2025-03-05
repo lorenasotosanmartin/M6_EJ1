@@ -6,6 +6,10 @@ En este ejercicio práctico, se integran características básicas de una PWA(Pr
 ### Registro de un Service Worker Básico
 ### Implementación de Estrategias de Almacenamiento en Caché
 ### Pruebas de Funcionamiento Offline y Validación con Lighthouse
+se comprueba el funcionamiento de la aplicacion en modalidad offline, y se realiza un informe mediante la aplicacion Ligthouse, que arroga los siguientes resultados:
+![image](https://github.com/user-attachments/assets/4316e0cc-9b06-4e23-a702-9ec875359d17)
+
+
 ### Visualización del proyecto
 Para visualizar este proyecto se necesita que previamente cuentes con la instalación de:
 - **Git**: [sitio de descarga] (https://git-scm.com/downloads)
